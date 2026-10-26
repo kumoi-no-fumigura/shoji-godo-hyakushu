@@ -1,0 +1,50 @@
+shoji-godo-hyakushu-000701	701			岩そゝく雪の下水もるから小霰なかるゝはるのやまかせ	
+shoji-godo-hyakushu-000702	702			海原やしらぬ行衛はたちこめて霞そ残る沖津しら波	
+shoji-godo-hyakushu-000703	703			越きつる山路の末をみわたせはいく里こむる霞なるらん	
+shoji-godo-hyakushu-000704	704			なにとなく宿の梢をおもはせて霞かへるはるの山人	
+shoji-godo-hyakushu-000705	705			古巣よりまつ山里に人なれてみやこへかよふうくひすの声	
+shoji-godo-hyakushu-000706	706			さひしさはならひにけりな雪ふかき古巣に残る谷のうくひす	
+shoji-godo-hyakushu-000707	707			露のふ籬の竹につたひきて軒に玉ちる鶯の聲	
+shoji-godo-hyakushu-000708	708			匂ひくる梢はしるし鶯の聲にそまよふ明くれのそら	
+shoji-godo-hyakushu-000709	709			きくよりも哀やまさる鶯の春ふかくなるゆふくれの聲	
+shoji-godo-hyakushu-000710	710		琵琶	かへるさもわすれぬ花の面影は宿の桜の木末なりけり	
+shoji-godo-hyakushu-000711	711			白雲はいくへもこめよ山桜みえぬも花の色ならぬかは	
+shoji-godo-hyakushu-000712	712			よしの山ふる木の桜下はえておなしあとつく花さきにけり	
+shoji-godo-hyakushu-000713	713			をしなへて梢もわかす散おりは花に聲かす松の春かせ	
+shoji-godo-hyakushu-000714	714			なかむれは雲におほめく高根より散も嬉しき花桜かな	
+shoji-godo-hyakushu-000715	715		子規	夜とゝもにまたれてそなく時鳥心となのるひと声もかな	
+shoji-godo-hyakushu-000716	716			時鳥おほめくさよの一声はきゝても人に猶そとはるゝ	
+shoji-godo-hyakushu-000717	717			名残をはいつちわけまし時鳥おほめくよはの村雨の声	
+shoji-godo-hyakushu-000718	718			子規ならの匂ひも契あれや花柚のゆふくれのそら	
+shoji-godo-hyakushu-000719	719			まつほとはわくかたなきを時鳥たか一声をきゝまかふらん	
+shoji-godo-hyakushu-000720	720			さみたれはよこの入江のわたし舟思はぬ山の麓にそよる	
+shoji-godo-hyakushu-000721	721			五月雨は軒はをよそのなかめにて心もほかへかよひやはする	
+shoji-godo-hyakushu-000722	722			はるとつゝくみなこをみわたせはしほちもわかす五月雨の比	
+shoji-godo-hyakushu-000723	723			中に五月の夜はのくらさまによの常ならすすむ心かな	
+shoji-godo-hyakushu-000724	724		草花	風こゆるとをちの末をみわたせは雲にほのめくをのゝかやはら	
+shoji-godo-hyakushu-000725	725			小男鹿のいる野の瓦の打なひきさもおらましにたれまねくらん	
+shoji-godo-hyakushu-000726	726			わけわふる露は袂にしたひきて色こそみはねまのゝ白萩	
+shoji-godo-hyakushu-000727	727			見わたせは露ものこらぬあさ風に猶玉まくは野路の葛原	
+shoji-godo-hyakushu-000728	728			秋ふかき霧のまかきを人とはゝまつこたふへき萩のをと哉	
+shoji-godo-hyakushu-000729	729			なかむれは更行夜はの雲消て月吹わたすあまの川風	
+shoji-godo-hyakushu-000730	730			雲の波はるかにきゝてもろこしの空へたてなくすめる月かな	
+shoji-godo-hyakushu-000731	731			なかむれは袖にしくるゝ心こそ月のかつらのいろはそめけれ	
+shoji-godo-hyakushu-000732	732			すみのほる心はいかに秋のよの月になるゝは袖のしら露	
+shoji-godo-hyakushu-000733	733			ふかき秋の哀しらるゝなかめまて残りはてぬる在明の月	
+shoji-godo-hyakushu-000734	734		紅葉	一枝をしくるゝ山にさきたてゝこゝろとしけるもみちをそみる	
+shoji-godo-hyakushu-000735	735			龍田山もみちに残る常葉木のみとりもふかき秋のいろ哉	
+shoji-godo-hyakushu-000736	736			もみち葉にしくるゝ雲のはれゆけは縁にのこる山のはの空	
+shoji-godo-hyakushu-000737	737			色にあまる心を人にみせんとや鹿なく山の嶺のもみちは	
+shoji-godo-hyakushu-000738	738			身にしめし色より外の梢まてうつりはてぬる秋のくれかな	
+shoji-godo-hyakushu-000739	739			けぬかうへに積るはかりのなをかへていくよふりぬる雪の白山	
+shoji-godo-hyakushu-000740	740			とふ人の跡にそみゆる降雪は心の道にたえけるものを	
+shoji-godo-hyakushu-000741	741			山路まてひとへにこむるそのゝ雪に空さへしろし在明の月	
+shoji-godo-hyakushu-000742	742			中になかめのみちははれにけりまかきの竹の雪の下ふし	
+shoji-godo-hyakushu-000743	743			こしかたはいくへの春に跡たえてかへる山路の雪をみるらん	
+shoji-godo-hyakushu-000744	744			いつしかと氷るみきはや朝風の吹すきてゆく跡をみすらん	
+shoji-godo-hyakushu-000745	745			ななにこほれるほとはみゆるかな木のはにたえし山川の水	
+shoji-godo-hyakushu-000746	746			池の波むすひはてつるみきはより庭まてこほる霜の下草	
+shoji-godo-hyakushu-000747	747			おち瀧津河そひましは玉こえて思はぬ枝も氷しにけり	
+shoji-godo-hyakushu-000748	748			吹わたす夜半のあらしの音さえてこほるすかたも玉川の水	
+shoji-godo-hyakushu-000749	749		神祇	うつります五十鈴河上影きよみてる日におひくいせの浜萩	
+shoji-godo-hyakushu-000750	750			右清水月に契りやふかゝらん秋のなかはにわきてうつれる	

@@ -1,0 +1,50 @@
+shoji-godo-hyakushu-000401	401		霜段	今朝みれは霧の衣立田山すその色もひきかへてけり	
+shoji-godo-hyakushu-000402	402			雪つみし精もけさはあさみとりかすめる松に春風そふく	
+shoji-godo-hyakushu-000403	403			よもの山いつしかみれは朝霞たつやをそきと春めきにけり	
+shoji-godo-hyakushu-000404	404			なかめこし雪けの空の月影のはるとはすれとなを霞つゝ	
+shoji-godo-hyakushu-000405	405			きゝなれし嵐の音もうつもれてしつかにかすむ峯の明ほの	
+shoji-godo-hyakushu-000406	406		留守	鶯のいつるふるすやいそくらんまた明やらぬ谷のひとこゑ	
+shoji-godo-hyakushu-000407	407			谷はいて宮もの空やたとるらんとやまの里のうくひすの聲	
+shoji-godo-hyakushu-000408	408			呉竹のふたまたにへぬ春の色にいつさとなれて鶯のこゑ	
+shoji-godo-hyakushu-000409	409			よもきふ所雪ふるとし跡たえて春をつくなり鶯の聲	
+shoji-godo-hyakushu-000410	410			梅は雪桜は雲とまかひてもにるものなきはうくひすの声	
+shoji-godo-hyakushu-000411	411			花のかけ思ふよりこそさひしけれあらしののちの春のくれうた	
+shoji-godo-hyakushu-000412	412			小初瀬の花さきぬれは菅原やふしみにかほる春の明ほの	
+shoji-godo-hyakushu-000413	413			高砂の松にも春の花さかは瓦上の雲のひまやなからん	
+shoji-godo-hyakushu-000414	414			もそとは匂ひにしるくなかめても猶雲わくるみよしのゝ山	
+shoji-godo-hyakushu-000415	415			まつとてはつらき精とみしかとものこるうれしき遅桜うな	
+shoji-godo-hyakushu-000416	416		郭公	時鳥うの花かけのしのひねにわれも五月のそらそまたるゝ	
+shoji-godo-hyakushu-000417	417			一声は曽路をすきて時鳥さむる枕にとをさかるなり	
+shoji-godo-hyakushu-000418	418			まちわひぬさのみくらくは時鳥まかふはかりの鳥のねもかな	
+shoji-godo-hyakushu-000419	419			時鳥ねぬよつもりの一声にうらみはまつのいろもかはらす	
+shoji-godo-hyakushu-000420	420			そらも空やとやはかはる時鳥しらぬかほにもすきぬなる哉	
+shoji-godo-hyakushu-000421	421			五月雨のふりひまゝにすゝか川やそ瀬もふちとなりはてにけり	
+shoji-godo-hyakushu-000422	422			ひまをあらむまらぬ宿の五月雨は軒の雫の音そすくなき	
+shoji-godo-hyakushu-000423	423			いつのまに水のみかさのいつみ川	
+shoji-godo-hyakushu-000424	424			五月雨のはれまをいかに松嶋やこほしまの蜑の袖もほしあへす	
+shoji-godo-hyakushu-000425	425			水の音はふかきにしもそよはるなるゐせきをてゆる五月雨のころ	
+shoji-godo-hyakushu-000426	426		草花	秋やこれおなしみとりにみし野へを千種にわくるをのかいろ	
+shoji-godo-hyakushu-000427	427			女郎花色をうつせは夕寄のちるさへおしき野への秋風	
+shoji-godo-hyakushu-000428	428			暮ゆけと匂ひはさらにかはらねは猶面影にみやきのゝはき	
+shoji-godo-hyakushu-000429	429			まねくとてとまらぬをみてうらむ也いかにかすへき尾花葛花	
+shoji-godo-hyakushu-000430	430			ほに出てまねきこそせねをかやはらみゆらん物をしたのうれは	
+shoji-godo-hyakushu-000431	431			なかむれは袂そさゆる久かたの月の都にあきかせやふく	
+shoji-godo-hyakushu-000432	432			夕暮の萩の音より空はれて秋風しるくすめる月うな	
+shoji-godo-hyakushu-000433	433			なかむれは都もかなしさらしなや妖捨山にいつる月にも	
+shoji-godo-hyakushu-000434	434			松浦かたはるかにみれはもろこしの空もひとつにすめる月哉	
+shoji-godo-hyakushu-000435	435			いたつらにまつ夜そいたゝ更にける山のあなたやあり明の月	
+shoji-godo-hyakushu-000436	436		紅葉	初時雨すさぬとみつる雲間より高根のはゝそ色付にける	
+shoji-godo-hyakushu-000437	437			龍田山また色あさき梢にも猶たのまれす秋の日かすは	
+shoji-godo-hyakushu-000438	438			いなにかさなる山のみちはいくへたゝめる錦なるらん	
+shoji-godo-hyakushu-000439	439			もみち葉をさのみやよそに三輪の山杉の梢は時雨のみして	
+shoji-godo-hyakushu-000440	440			もみち葉のちるをもいはしきはたゝ嵐にかよふ秋のくれかた	
+shoji-godo-hyakushu-000441	441			さらに猶芦火たゝやもさむけしや難波わたりの雪のよな	
+shoji-godo-hyakushu-000442	442			秋まてはたつぬる人を松虫のおもひたえたる雪の山さと	
+shoji-godo-hyakushu-000443	443			さひしさは秋をかきりとみし宿のまたみのころも雪の夕暮	
+shoji-godo-hyakushu-000444	444			とはすこも山路の冬を思ひやれ心のみちをうつむ雪かは	
+shoji-godo-hyakushu-000445	445			龍津頼にまかへし風も音絶て松には雪そ也けり	
+shoji-godo-hyakushu-000446	446			今朝よりはもりこし水も嵐山さえゆく夜はに氷むすひて	
+shoji-godo-hyakushu-000447	447			夜をさむみ氷の下に音たえて岩まの水も冬こもるなり	
+shoji-godo-hyakushu-000448	448			龍の音も今はのこらす氷して岩影さひし冬の山さと	
+shoji-godo-hyakushu-000449	449			うきねさめ氷をたひのすみかにて故郷こふるをくそ鳴なる	
+shoji-godo-hyakushu-000450	450			したこほる難波の芦の打なひき波よせ残す浦風そふく	

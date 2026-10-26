@@ -1,0 +1,50 @@
+shoji-godo-hyakushu-000551	551		神祇	長閑なるはこやの山にはると神と君との契りをそする	
+shoji-godo-hyakushu-000552	552			このころのやくもの末のことの葉に思ひいつものいにしへの空	
+shoji-godo-hyakushu-000553	553			萬代をまつおふる濱に年ふりて君かためにや住吉の神	
+shoji-godo-hyakushu-000554	554			さかりなる和歌の浦波立そひて恵もしるき玉津嶋姫	
+shoji-godo-hyakushu-000555	555			うたみいまやそうち人のかすなれは君をいのるはふた心なし	
+shoji-godo-hyakushu-000556	556		不殺生戒	今よりはまゆみつき弓引かへてなれくるしかに哀をもしれ	
+shoji-godo-hyakushu-000557	557		不諭盗戒	さつけをくまことの法を思ひこれおしむたからはさもあらすやも	
+shoji-godo-hyakushu-000558	558		不淫戒	我妹子に思ひ軒端の年をへてふかくもしけれ恋わすれ草	
+shoji-godo-hyakushu-000559	559		不妄語戒	摂津国の難波のことにつけつゝもよしをはあしといひなかくして	
+shoji-godo-hyakushu-000560	560		不飲酒戒	さとりえぬ浮世のゑひをさめぬ身にかりの情はたれすゝむ	
+shoji-godo-hyakushu-000561	561			みしかきのむすひもあへぬ夢のよにうつゝともなき鐘のをと哉	
+shoji-godo-hyakushu-000562	562			東雲の思ふ思ひの数に猶をきあまる袖のつゆかな	
+shoji-godo-hyakushu-000563	563			瓜木こる賤かあさけの煙ゆへまた夜をこめてひましらむ也	
+shoji-godo-hyakushu-000564	564			よひにきくおなし野寺の鐘の音に哀は今そつきはてぬへき	
+shoji-godo-hyakushu-000565	565			さらにまたみぬいにらへの面影も心のうちにありあけのそら	
+shoji-godo-hyakushu-000566	566			夕附日さすや岡辺の柴の戸に程なくかはる三日月のかけ	
+shoji-godo-hyakushu-000567	567			いそやかた煙は空に色消てほのめきそむるあまのもしほ火	
+shoji-godo-hyakushu-000568	568			たれこむるまとやはるかにへたつらん入相の鐘は遠さかる也	
+shoji-godo-hyakushu-000569	569			いかにせん月にもあかぬ老まて袖もおほろにゆふつゝのかけ	
+shoji-godo-hyakushu-000570	570			秋のみと思ひしものを袖の露いつものくれのならひとそなる	
+shoji-godo-hyakushu-000571	571		山路	此ころはいそく家路そかはりける春より後の志賀の山越	
+shoji-godo-hyakushu-000572	572			帰りみる麓の里そ遠からぬはるきぬる心地すれとも	
+shoji-godo-hyakushu-000573	573			岩ねふみしはかしたゝく苔の上にほとなき夢のむすほられつゝ	
+shoji-godo-hyakushu-000574	574			はると岩のうけちになつみさて駒立とまるやま川の水	
+shoji-godo-hyakushu-000575	575			むかく越し跡のなさけの面影も龍田の山の夕くれのそら	
+shoji-godo-hyakushu-000576	576		海辺	和歌の浦の波を心にかけまくもかしこき御代のならひとそきく	
+shoji-godo-hyakushu-000577	577			なかめやるをしまかさきの濱ひさし軒端にきゆる沖つ白波	
+shoji-godo-hyakushu-000578	578			蜑小舟かへる浦路の夕くれに松ふく風そしほり也ける	
+shoji-godo-hyakushu-000579	579			はりまかたしらぬ波路にこよひより浦なれそむる月の影哉	
+shoji-godo-hyakushu-000580	580			哀なりゆくゑもしらぬ波の上に浮世をわたるあまの釣舟	
+shoji-godo-hyakushu-000581	581		禁中	皇のよるのおとゝのあけかたにほの残る春のともし火	
+shoji-godo-hyakushu-000582	582			とのもりの朝きよめする萩の戸にしかまのかちのみえぬ花生	
+shoji-godo-hyakushu-000583	583			いにしへのいつゝの人もなしつほにみぬ面影は猶のこりつゝ	
+shoji-godo-hyakushu-000584	584			今さらに思ひもたえぬ煙哉月すむころの庭の火たきや	
+shoji-godo-hyakushu-000585	585			いまよりやとたえはてなんいにしへはふたゝひわたる雲のかけはし	
+shoji-godo-hyakushu-000586	586		遊宴	ひきに子日の野へはかはれとも千年をまつそもろ心なる	
+shoji-godo-hyakushu-000587	587			白川のおにみゆきの跡とへは老木のさくらねにかへりつゝ	
+shoji-godo-hyakushu-000588	588			うすくもり桜か本に風たえて木のもとちらぬまりのをと哉	
+shoji-godo-hyakushu-000589	589			春の花秋のもみちの木のもとに今年なれぬるわかの浦人	
+shoji-godo-hyakushu-000590	590			月ふけて都のこもに逢坂のわらやにかよふ嶺のまつはせ	
+shoji-godo-hyakushu-000591	591		公事	家路より都の霞わけてけふたちわたる雲のうへ人	
+shoji-godo-hyakushu-000592	592			をみえたちぬる跡のなこりかな月にうつれる庭のくれ竹	
+shoji-godo-hyakushu-000593	593			雲の上のさ月の空のひめもすにきくもすゝしき法の聲哉	
+shoji-godo-hyakushu-000594	594			昔なれし乙女の袖もゆかしきに豊の明をよそなからみん	
+shoji-godo-hyakushu-000595	595			明そめしあまの岩戸のむかしより雲井にたえぬあかほしの声	
+shoji-godo-hyakushu-000596	596		祝言	末よいかにまたわかまつの此ころをのとけき御代のためしにそ	
+shoji-godo-hyakushu-000597	597			白川のなかれの末をむすふとも猶としなみはたちまさりませ	
+shoji-godo-hyakushu-000598	598			くもりなき君かよはひをてらしみて月日やかすを空にしるらん	
+shoji-godo-hyakushu-000599	599			枝も八百万代をまつ風は君かならひを吹つたふ也	
+shoji-godo-hyakushu-000600	600			たみまても煙をたてゝしらる也にきはふ御代に	

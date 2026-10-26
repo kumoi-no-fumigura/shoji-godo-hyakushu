@@ -1,0 +1,50 @@
+shoji-godo-hyakushu-000051	51		神祇	はすゝ川たのむ心しふかけれはあまてる神そ空にしるらん	
+shoji-godo-hyakushu-000052	52			ちはやふる神やしるらんもろかつらひとかたならすかくるたのみを	
+shoji-godo-hyakushu-000053	53			玉垣や神のひかりもまさりゆく月のかつらのむかしおりえて	
+shoji-godo-hyakushu-000054	54			跡たれしすきにしかたを思ふにもたのむしるしを三輪の山本	
+shoji-godo-hyakushu-000055	55			ちはやふる庭火のまへにとる榊かをかくはしみ山あゐの神	
+shoji-godo-hyakushu-000056	56		花厳	出る朝日山の高根をてねことも行衛もしらぬ谷の埋木	
+shoji-godo-hyakushu-000057	57		河含	しりそめしかせきかてのゝ萩のはにひまなくをける無漏の朝な	
+shoji-godo-hyakushu-000058	58		方等	さきにをゝへし道のかひあれはつゐにはふかくさとりいてにき	
+shoji-godo-hyakushu-000059	59		般若	池きよみ水にうつれる月影やむなしといへるためしなるらん	
+shoji-godo-hyakushu-000060	60		法花	いたつらにもるゝ草木もなかりけり一味の雨のところわかねは	
+shoji-godo-hyakushu-000061	61			初瀬山明ぬとつくる鐘の音に声うちそふる峯のまつ風	
+shoji-godo-hyakushu-000062	62			秋の月ひかりそまさる玉くしけふたみのうらの明またのそら	
+shoji-godo-hyakushu-000063	63			くもりこしひはら下の月影も残るくまなく有明のそら	
+shoji-godo-hyakushu-000064	64			秋のよの月の影さす槙の戸をし時うたの横雲の空	
+shoji-godo-hyakushu-000065	65			雲はなしなかめは西にめくりきて山のはちかき有明の月	
+shoji-godo-hyakushu-000066	66			三日月のほのめく暮の山端はなかめはかりも有明の空	
+shoji-godo-hyakushu-000067	67			大井川ゐせきに秋の色みえていさよふ波の夕くれのをと	
+shoji-godo-hyakushu-000068	68			山嵐に梢の木の葉つきはてゝ色なき枝の夕時雨哉	
+shoji-godo-hyakushu-000069	69			山端をめくる時雨の雲まよりとりあへすいつる夕月夜哉	
+shoji-godo-hyakushu-000070	70			ふる雪をたそかれ時のそらめには花とや人のみよしのゝ里	
+shoji-godo-hyakushu-000071	71		山路	春行は妻のかへに露して月にはつらしをのゝやまみち	
+shoji-godo-hyakushu-000072	72			葉をしけみもるひまもなく秋の夜の月おほろなる足柄の山	
+shoji-godo-hyakushu-000073	73			秋の月くまなきころはこまりせしひるにやかはるさよの中山	
+shoji-godo-hyakushu-000074	74			なかめこし心は秋の関なれや月影きよき不破の中やま	
+shoji-godo-hyakushu-000075	75			立田山もみちし跡もうつもれて木のはにまかふ岩のかけ道	
+shoji-godo-hyakushu-000076	76		海辺	なかむれはあはちのせとの夕しかにむしきえわたるあまの釣舟	
+shoji-godo-hyakushu-000077	77			月きよき明石のせとの波の上にうらみをのこす有明の雲	
+shoji-godo-hyakushu-000078	78			蜑小舟行ゑもしらぬ波の上にいつくのうらへさらてゆくらん	
+shoji-godo-hyakushu-000079	79			磯の松嵐にたへぬおりしもあれ哀うちそふ波のをと哉	
+shoji-godo-hyakushu-000080	80			あかしかた浦吹風に雲きえて波よりにしに在明の月	
+shoji-godo-hyakushu-000081	81		禁中	春はたゝ軒端の花をなかめつゝ家路わするゝ雲のうへ哉	
+shoji-godo-hyakushu-000082	82			うすみとりまた夏あさき木間より春をとらむる藤童の藤	
+shoji-godo-hyakushu-000083	83			九重のはきのさかりはみかは水岩まの波もはなさきにけり	
+shoji-godo-hyakushu-000084	84			よもすから雲井の庭を照すなる氷士のたく火は在明のころ	
+shoji-godo-hyakushu-000085	85			くまもなき雲ゐの月にやすらへはうしみつまてに夜も成にけり	
+shoji-godo-hyakushu-000086	86		遊宴	千代の春谷の戸出る鶯のはつねにそひく二葉なる松	
+shoji-godo-hyakushu-000087	87			結ひあくる宿の泉の水さえて夏も夏なき物にそ有ける	
+shoji-godo-hyakushu-000088	88			秋のよの月にそうたふ舟のうち波のうへなるうからめの声	
+shoji-godo-hyakushu-000089	89			雪ふかき粟津の原の暮かたはあはする鷹もてにかへりけり	
+shoji-godo-hyakushu-000090	90			敷嶋や大和ことの葉勝負に人の心そひとにこえぬる	
+shoji-godo-hyakushu-000091	91		公事	雲のうへにこれや春たつしなる袖をつらぬるけふの諸人	
+shoji-godo-hyakushu-000092	92			相坂の山たち出て雲の上にかけさしのほる望月のこま	
+shoji-godo-hyakushu-000093	93			天津風雲井の空を吹からに乙女の袖にやとる月かけ	
+shoji-godo-hyakushu-000094	94			諸人のみたらし川にするかまひ雲井にかへるあかつきのあら	
+shoji-godo-hyakushu-000095	95			年のくれみ世の仏の御名をきゝて心はれ行雲のかよひ	
+shoji-godo-hyakushu-000096	96		祝言	三笠山出る朝日の光よりのとかなるへきよろつ代の春	
+shoji-godo-hyakushu-000097	97			春くれは一しほまさる住吉の松やちとせのためしなるらん	
+shoji-godo-hyakushu-000098	98			ちはやふる神そしるらんふして思ひおきてかそふる万代のおく	
+shoji-godo-hyakushu-000099	99			亀の尾の岩根をおつる白玉の数かきりなき千代の行末	
+shoji-godo-hyakushu-000100	100			むしろ田やかねて千年のしるきかないつぬき川に	
