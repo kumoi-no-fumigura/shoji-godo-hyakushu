@@ -5,7 +5,12 @@
  "yomi": "しょうじごどひゃくしゅ",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "定数歌（百首歌）",
+  "era": "正治2年（1200）",
+  "author": "後鳥羽院と歌人たち",
+  "desc": "後鳥羽院の召しによる正治百首の二度目の百首歌。新古今時代の歌人の作を収める。"
+ },
  "editions": [
   {
    "pid": "2576229",
